@@ -2,18 +2,18 @@
 
 # NELL tasks
 declare -a arr=(
-#athleteplaysinleague 
-#worksfor 
+athleteplaysinleague 
+worksfor 
 organizationhiredperson)
-#athleteplayssport 
-#teamplayssport 
-#personborninlocation 
-#athletehomestadium 
-#organizationheadquarteredincity 
-#athleteplaysforteam 
-#teamplaysinleague 
-#agentbelongstoorganization
-#personleadsorganization)
+athleteplayssport 
+teamplayssport 
+personborninlocation 
+athletehomestadium 
+organizationheadquarteredincity 
+athleteplaysforteam 
+teamplaysinleague 
+agentbelongstoorganization
+personleadsorganization)
 
 # Freebase tasks
 #film@director@film
