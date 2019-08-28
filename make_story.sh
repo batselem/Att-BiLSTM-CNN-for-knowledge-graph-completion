@@ -38,15 +38,15 @@ organizationhiredperson)
 for task_name in "${arr[@]}"
 do
 	echo $task_name
-    python Story_Generator_Path4.py $task_name nell
-#    python Story_Generator_Path4.py $task_name fb
+    	python story_generator.py $task_name nell
+#    python story_generator.py $task_name fb
 
-#    python Story_Generator_Path_Partial_Type.py $task_name nell data/NELL-995/entity_type/70/entity_type.txt			# partial entities
-#    python Story_Generator_Path_Partial_Type.py $task_name nell data/NELL-995/entity_type/50/entity_type.txt			# partial entities
-#    python Story_Generator_Path_Partial_Type.py $task_name nell data/NELL-995/entity_type/30/entity_type.txt			# partial entities
+#    python story_generator.py $task_name nell data/NELL-995/entity_type/70/entity_type.txt			# partial entities
+#    python story_generator.py $task_name nell data/NELL-995/entity_type/50/entity_type.txt			# partial entities
+#    python story_generator.py $task_name nell data/NELL-995/entity_type/30/entity_type.txt			# partial entities
 
-#    python Story_Generator_Path_Partial_Type.py $task_name fb data/FB15k-237/entity_type/70/entity_type.txt			# partial entities
-#    python Story_Generator_Path_Partial_Type.py $task_name fb data/FB15k-237/entity_type/50/entity_type.txt			# partial entities
-#    python Story_Generator_Path_Partial_Type.py $task_name fb data/FB15k-237/entity_type/30/entity_type.txt			# partial entities
+#    python story_generator.py $task_name fb data/FB15k-237/entity_type/70/entity_type.txt			# partial entities
+#    python story_generator.py $task_name fb data/FB15k-237/entity_type/50/entity_type.txt			# partial entities
+#    python story_generator.py $task_name fb data/FB15k-237/entity_type/30/entity_type.txt			# partial entities
 
 done
