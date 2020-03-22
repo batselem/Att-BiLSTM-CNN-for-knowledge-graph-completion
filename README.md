@@ -9,7 +9,7 @@ For generating relation paths, we used https://github.com/noon99jaki/pra.
 
 
 
-```Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park, <br/>Path-based reasoning approach for knowledge graph completion using <br/>CNN-BiLSTM with attention mechanism, <br/>Expert Systems With Applications (2019), <br/>doi: https://doi.org/10.1016/j.eswa.2019.112960```
+```Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park, Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism, Expert Systems With Applications (2019), doi: https://doi.org/10.1016/j.eswa.2019.112960```
 
 
 ### Acknowledgement
