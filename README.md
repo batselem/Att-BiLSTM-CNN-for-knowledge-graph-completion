@@ -14,4 +14,4 @@ Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park, Pa
 
 ### Acknowledgement
 
-I'd like to thank my professor for his support and advise.
+I'd like to thank my professor, Young-Tack Park for his support and advise.
