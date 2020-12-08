@@ -9,8 +9,8 @@ The original knowledge graph data we used for our experiments can be found in [2
 
 ### Required Files
 
-- data/processed_data.tar.gz - dataset files containing grounded paths with relations and entities (e.g e1, r1, e2, r2, e3)
-- tasks - can be downloaded 
+- data/processed_data.tar.gz - dataset files containing grounded paths with relations and entities (e.g e1, r1, e2, r2, e3).
+- tasks - can be downloaded from [2].
 
 
 ### If you use our code, please cite the paper
@@ -18,8 +18,8 @@ The original knowledge graph data we used for our experiments can be found in [2
 ```Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park, Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism, Expert Systems With Applications (2019), doi: https://doi.org/10.1016/j.eswa.2019.112960```
 
 ### Reference:
-[1]https://github.com/noon99jaki/pra
-[2][https://github.com/shehzaadzd/MINERVA/tree/master/datasets/data_preprocessed
+- [1] https://github.com/noon99jaki/pra
+- [2] https://github.com/shehzaadzd/MINERVA/tree/master/datasets/data_preprocessed
 
 ### Acknowledgement
 
