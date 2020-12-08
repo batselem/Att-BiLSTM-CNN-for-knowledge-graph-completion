@@ -5,6 +5,8 @@ Keras implementation for the paper titled "Path-based reasoning approach for kno
 
 For generating relation paths, we used https://github.com/noon99jaki/pra.
 
+The original knowledge graph data we used for our experiments can be found here: https://github.com/shehzaadzd/MINERVA/tree/master/datasets/data_preprocessed
+
 ### If you use our code, please cite the paper
 
 ```Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park, Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism, Expert Systems With Applications (2019), doi: https://doi.org/10.1016/j.eswa.2019.112960```
