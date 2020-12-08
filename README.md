@@ -9,7 +9,7 @@ The original knowledge graph data we used for our experiments can be found here:
 
 ### Files
 
-- data/processed_data.tar.gz - datasets files containing grounded paths with relations entities (e.g e1, r1, e2, r2, e3)
+- data/processed_data.tar.gz - datasets files containing grounded paths with relations and entities (e.g e1, r1, e2, r2, e3)
 
 
 ### If you use our code, please cite the paper
