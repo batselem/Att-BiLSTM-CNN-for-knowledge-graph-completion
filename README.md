@@ -6,10 +6,11 @@ Keras implementation for the paper titled "Path-based reasoning approach for kno
 For generating relation paths, we used https://github.com/noon99jaki/pra.
 
 The original knowledge graph data we used for our experiments can be found here: https://github.com/shehzaadzd/MINERVA/tree/master/datasets/data_preprocessed
+which includes tasks datasets for preprocessing train/test datasets.
 
 ### Files
 
-- data/processed_data.tar.gz - datasets files containing grounded paths with relations and entities (e.g e1, r1, e2, r2, e3)
+- data/processed_data.tar.gz - dataset files containing grounded paths with relations and entities (e.g e1, r1, e2, r2, e3)
 
 
 ### If you use our code, please cite the paper
