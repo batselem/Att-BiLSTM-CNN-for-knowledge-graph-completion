@@ -10,7 +10,7 @@ Keras implementation for the paper titled "Path-based reasoning approach for kno
 
 For generating relation paths, we used [2].
 
-The original knowledge graph data we used for our experiments can be found in [1] which includes tasks datasets for preprocessing train/test datasets.
+The original knowledge graph data we used for our experiments can be found in [1] which includes tasks datasets with train/test triples.
 
 ### If you use our code, please cite the paper
 
